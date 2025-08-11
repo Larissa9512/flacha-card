@@ -1,6 +1,6 @@
 
 criaCartao(
-    'Programação',
+    'geografia',
     'Onde se localiza o egito?',
     'O Egito está localizado na África'
 )
@@ -12,7 +12,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'geografia',
     'Qual o país com mais ilhas no mundo?',
     ' é a Suécia'
 )
